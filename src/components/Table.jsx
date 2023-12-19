@@ -1,7 +1,7 @@
 import "./styling.css"
 const Table = ({ sat }) => {
   return (
-    <table>
+    <table> 
     <thead>
      <tr>
        <th>Name</th>
